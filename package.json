@@ -1,0 +1,22 @@
+{
+  "name": "projectfolder",
+  "version": "1.0.0",
+  "description": "the node part of the ethos project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PositProject/ProjectFolder.git"
+  },
+  "keywords": [
+    "ethos"
+  ],
+  "author": "Clark Bristol <clarkbristol@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PositProject/ProjectFolder/issues"
+  },
+  "homepage": "https://github.com/PositProject/ProjectFolder#readme"
+}
